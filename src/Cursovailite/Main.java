@@ -1,2 +1,4 @@
-package Cursovailite;public class Main {
+package Cursovailite;
+
+public class Main {
 }
