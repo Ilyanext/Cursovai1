@@ -14,12 +14,6 @@ public class Employee {
         id = numbersOfEmployee++;
     }
 
-//    public void EmployeeDontDepatment (String fullName, int salary, int id) {
-//        this.fullName = fullName;
-//        this.salary = salary;
-//        this.id = id;
-//    }
-
     public String getFullName() {
         return fullName;
     }

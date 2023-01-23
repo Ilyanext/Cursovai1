@@ -1,6 +1,7 @@
 package Cursovailite;
 
 public class Main {
+
     public static void counting(Employee employee[]) {
         for (int i = 0; i < employee.length; i++) {
             System.out.println(employee[i]);
